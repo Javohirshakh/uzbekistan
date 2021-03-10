@@ -1,0 +1,2 @@
+# uzbekistan
+uzbekistan(template)
